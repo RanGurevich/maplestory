@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\ran70\Desktop\newMaple\maplestory\.metadata\.plugins\org.eclipse.jdt.core
